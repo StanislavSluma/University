@@ -1,0 +1,37 @@
+[
+  {
+    "Department": {
+      "AmountOfPatient": 666,
+      "ReceptionName": "FirstCircle"
+    },
+    "HospitalName": "Hell"
+  },
+  {
+    "Department": {
+      "AmountOfPatient": 666,
+      "ReceptionName": "SecondCircle"
+    },
+    "HospitalName": "Hell"
+  },
+  {
+    "Department": {
+      "AmountOfPatient": 666,
+      "ReceptionName": "ThirdCircle"
+    },
+    "HospitalName": "Hell"
+  },
+  {
+    "Department": {
+      "AmountOfPatient": 666,
+      "ReceptionName": "ForthCircle"
+    },
+    "HospitalName": "Hell"
+  },
+  {
+    "Department": {
+      "AmountOfPatient": 666,
+      "ReceptionName": "FifthCircle"
+    },
+    "HospitalName": "Hell"
+  }
+]

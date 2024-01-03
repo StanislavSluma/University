@@ -1,0 +1,15 @@
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\bin\Debug\net7.0\SerializerLib.deps.json
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\bin\Debug\net7.0\SerializerLib.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\bin\Debug\net7.0\SerializerLib.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\bin\Debug\net7.0\Lab_rab_5.Domain.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\bin\Debug\net7.0\Lab_rab_5.Domain.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.csproj.AssemblyReference.cache
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.AssemblyInfoInputs.cache
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.AssemblyInfo.cs
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.csproj.CoreCompileInputs.cache
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.csproj.CopyComplete
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\refint\SerializerLib.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\SerializerLib.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_5\SerializerLib\obj\Debug\net7.0\ref\SerializerLib.dll

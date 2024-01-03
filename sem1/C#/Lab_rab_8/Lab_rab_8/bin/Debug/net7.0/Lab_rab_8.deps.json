@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab_rab_8/1.0.0": {
+        "dependencies": {
+          "ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lab_rab_8.dll": {}
+        }
+      },
+      "ClassLibrary/1.0.0": {
+        "runtime": {
+          "ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_rab_8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

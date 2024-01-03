@@ -1,0 +1,11 @@
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\bin\Debug\net7.0\Lab_rab_5.Domain.deps.json
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\bin\Debug\net7.0\Lab_rab_5.Domain.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\bin\Debug\net7.0\Lab_rab_5.Domain.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\Lab_rab_5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\Lab_rab_5.Domain.AssemblyInfoInputs.cache
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\Lab_rab_5.Domain.AssemblyInfo.cs
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\Lab_rab_5.Domain.csproj.CoreCompileInputs.cache
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\Lab_rab_5.Domain.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\refint\Lab_rab_5.Domain.dll
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\Lab_rab_5.Domain.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_5\Lab_rab_5.Domain\obj\Debug\net7.0\ref\Lab_rab_5.Domain.dll

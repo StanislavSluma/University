@@ -1,0 +1,11 @@
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\bin\Release\net7.0\ClassLibrary.deps.json
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\bin\Release\net7.0\ClassLibrary.dll
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\bin\Release\net7.0\ClassLibrary.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ClassLibrary.AssemblyInfo.cs
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ClassLibrary.dll
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\refint\ClassLibrary.dll
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ClassLibrary.pdb
+D:\AA_curs2\sem1\C#\Lab_rab_8\ClassLibrary\obj\Release\net7.0\ref\ClassLibrary.dll

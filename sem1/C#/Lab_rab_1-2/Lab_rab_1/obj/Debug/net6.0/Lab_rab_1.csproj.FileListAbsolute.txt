@@ -1,0 +1,15 @@
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\bin\Debug\net6.0\Lab_rab_1.exe
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\bin\Debug\net6.0\Lab_rab_1.deps.json
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\bin\Debug\net6.0\Lab_rab_1.runtimeconfig.json
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\bin\Debug\net6.0\Lab_rab_1.dll
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\bin\Debug\net6.0\Lab_rab_1.pdb
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.csproj.AssemblyReference.cache
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.AssemblyInfoInputs.cache
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.AssemblyInfo.cs
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.csproj.CoreCompileInputs.cache
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.dll
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\refint\Lab_rab_1.dll
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.pdb
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\Lab_rab_1.genruntimeconfig.cache
+D:\С#\2_curs_1_sem\Lab_rab_1\Lab_rab_1\obj\Debug\net6.0\ref\Lab_rab_1.dll

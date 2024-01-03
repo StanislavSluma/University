@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfHospital>
+  <Hospital>
+    <HospitalName>Hell</HospitalName>
+    <Department>
+      <AmountOfPatient>666</AmountOfPatient>
+      <ReceptionName>FirstCircle</ReceptionName>
+    </Department>
+  </Hospital>
+  <Hospital>
+    <HospitalName>Hell</HospitalName>
+    <Department>
+      <AmountOfPatient>666</AmountOfPatient>
+      <ReceptionName>SecondCircle</ReceptionName>
+    </Department>
+  </Hospital>
+  <Hospital>
+    <HospitalName>Hell</HospitalName>
+    <Department>
+      <AmountOfPatient>666</AmountOfPatient>
+      <ReceptionName>ThirdCircle</ReceptionName>
+    </Department>
+  </Hospital>
+  <Hospital>
+    <HospitalName>Hell</HospitalName>
+    <Department>
+      <AmountOfPatient>666</AmountOfPatient>
+      <ReceptionName>ForthCircle</ReceptionName>
+    </Department>
+  </Hospital>
+  <Hospital>
+    <HospitalName>Hell</HospitalName>
+    <Department>
+      <AmountOfPatient>666</AmountOfPatient>
+      <ReceptionName>FifthCircle</ReceptionName>
+    </Department>
+  </Hospital>
+</ListOfHospital>
